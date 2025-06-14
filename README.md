@@ -1,0 +1,2 @@
+# TelnetChatRoom
+基于Nodejs编写的简单的Telnet聊天室
